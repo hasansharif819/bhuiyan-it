@@ -79,33 +79,110 @@
   text-align: left;
   color: inherit;
   text-decoration: none;
-  border: 1px solid #eaeaea;
+  border: 1px solid #322f2f;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  max-width: 300px;
+  max-width: 400px;
+  height: 500px;
 }
 
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  background: linear-gradient(to right,hotpink, tomato);
+  /* border-color: #0070f3; */
 }
 
+/* .ImageFig {
+  position: relative;
+}
+.cardImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: fill;
+} */
+
 .card h2 {
-  margin: 0 0 1rem 0;
+  margin-left: 1rem;
   font-size: 1.5rem;
 }
 
 .card p {
-  margin: 0;
-  font-size: 1.25rem;
-  line-height: 1.5;
+  margin-left: 1rem;
+  font-size: 1.15rem;
+  line-height: 1;
 }
 
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.homePage {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 0 0 5rem;
+}
+
+.button {
+  background: linear-gradient(
+    to right,
+    pink,
+    /* pink 50%, */
+    /* paleturquoise 50%, */
+    paleturquoise
+  );;
+  padding: .5rem;
+  font-size: larger;
+  font-weight: 700;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.myStyle {
+  color: tomato;
+}
+
+.buttonPossition {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.amount {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: linear-gradient(to right,hotpink, tomato);
+}
+.amountSingle {
+  width: 20%;
+}
+.secure {
+  text-align: center;
+  margin-top: 3rem;
+}
+.secureButton {
+  background: linear-gradient(
+    to right,
+    pink,
+    paleturquoise
+  );;
+  padding: .5rem;
+  font-size: larger;
+  font-weight: 700;
+  cursor: pointer;
+  border-radius: 10px;
+  margin: 3rem 0 3rem 600px;
+  text-align: center;
+}
+
+.horizontal {
+  border: 1.5px solid black;
+  background-color: black;
 }
 
 @media (max-width: 600px) {

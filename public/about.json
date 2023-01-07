@@ -1,0 +1,50 @@
+[
+    {
+        "_id" : 1,
+        "name" : "Sharif Hasan",
+        "designation": "Frontend Developer",
+        "email": "hs.sharif819@gmail.com",
+        "contact": "+8801640911511",
+        "description": "This is SHarif Hasan. I am a Frontend Developer. Working on Bhuiyan Soft"
+    },
+    {
+        "_id" : 2,
+        "name" : "Jaker Hossain",
+        "designation": "Computer Operator",
+        "email": "jaker.hossain@gmail.com",
+        "contact": "+8801640911512",
+        "description": "This is SHarif Hasan. I am a Frontend Developer. Working on Bhuiyan Soft"
+    },
+    {
+        "_id" : 3,
+        "name" : "Shuvro Sharif",
+        "designation": "MERN Stack Developer",
+        "email": "sharifhasancse819@gmail.com",
+        "contact": "+8801640911513",
+        "description": "This is SHarif Hasan. I am a MERN Stack Developer. Working on Bhuiyan Soft"
+    },
+    {
+        "_id" : 4,
+        "name" : "Tanjum Nahar",
+        "designation": "Frontend Developer",
+        "email": "hs.sharif819@gmail.com",
+        "contact": "+8801640911511",
+        "description": "This is SHarif Hasan. I am a Frontend Developer. Working on Bhuiyan Soft"
+    },
+    {
+        "_id" : 5,
+        "name" : "Muslima Jahan",
+        "designation": "Frontend Developer",
+        "email": "hs.sharif819@gmail.com",
+        "contact": "+8801640911511",
+        "description": "This is SHarif Hasan. I am a Frontend Developer. Working on Bhuiyan Soft"
+    },
+    {
+        "_id" : 6,
+        "name" : "Hasan Sharif",
+        "designation": "Frontend Developer",
+        "email": "hs.sharif819@gmail.com",
+        "contact": "+8801640911511",
+        "description": "This is SHarif Hasan. I am a Frontend Developer. Working on Bhuiyan Soft"
+    }
+]

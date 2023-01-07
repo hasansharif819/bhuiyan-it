@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black; 
+    color: white;
+    height: 3rem;
+}
+
+.navbarLinks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    font-size: larger;
+    font-weight: 700;
+    color: white;   
+}
+
+.navbarLinks li {
+    display: inline;
+    color: white;
+}
